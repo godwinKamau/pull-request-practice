@@ -2,4 +2,6 @@
 
 _Practice makes perfect_
 
-## Further Changer
+## Further Changes
+
+Fixed mispelling
